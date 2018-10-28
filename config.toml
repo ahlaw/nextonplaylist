@@ -1,0 +1,8 @@
+baseURL = "http://nextonplaylist.org/"
+languageCode = "en-us"
+title = "Next on Playlist"
+paginate = 3
+theme = "arabica"
+
+[params]
+    dateFormatToUse = "2006-01-02"
